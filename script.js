@@ -7,6 +7,6 @@ let income = '5000';
 let addExpenses = '4000';
 let deposit = '1000';
 let mission = 'win';
-let period = '1 month';
+let period = '2 month';
 
 console.log(money, income, addExpenses, deposit, mission, period );
