@@ -23,7 +23,7 @@ let phrase1 = `Период равен ${period} месяцев`;
 
 console.log(phrase1);
 
-let phrase2 = `Цель заработать ${mission} долларов`;
+let phrase2 = `Цель заработать ${mission} рублей`;
 
 console.log(phrase2);
 
